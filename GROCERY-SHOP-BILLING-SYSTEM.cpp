@@ -6,6 +6,7 @@ int main()
 	char p,v;
 	int t,q,bill=0;
 	cout<<"                                                                  ************* YUG GROCERY STORE *************";
+	COUT<<"\n                                                                DISCOUNT ABOVE THE SHOPPING OF Rs2000";
 	up:
 	cout<<"\n Press d for Dairy Products \n";
 	cout<<"\n Press g for Grains \n";
